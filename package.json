@@ -1,7 +1,7 @@
 {
   "name": "jsmp-infra-great-package",
   "version": "0.0.1",
-  "description": "simple package for transormation stings and arrays",
+  "description": "it's a trainee simple package for transormation stings and arrays",
   "main": "dist/index.js",
   "scripts": {
     "test": "node ./dist/test/transformString.js && node ./dist/test/transformArray.js && echo 'all tests passed' ",
