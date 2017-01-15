@@ -1,0 +1,6 @@
+#!/bin/sh
+
+node ./dist/test/transformString.js
+node ./dist/test/transformArray.js
+
+echo 'all tests passed'

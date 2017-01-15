@@ -1,0 +1,10 @@
+.idea/
+dist/
+.git/
+node_modules/
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
