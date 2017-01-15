@@ -16,12 +16,14 @@ Next function call will be return ```'olleH dlroW'```;
 
 ```
  transformString('Hello World')
- 
 ```
 
 ```tranformArray``` takes two arrays as an arguments and return one.
+
 For example:
 Next function call will be return ```[1, 'a', 2, 'b', 3, 'c']```;
+
+
 ``` 
   transformArray([1,2,3], ['a', 'b', 'c']);
 ```
